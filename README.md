@@ -11,7 +11,7 @@ MS COCO 2017 instance segmentation dataset. This dataset includes 118K/5K images
 existing methods does not capture the meaning of text queries and depend on specific words
 
 ## Baseline for understand the project
-To help with understanding the project, i will introduce the most famous model(Mask R-CNN) used in the project.
+To help with understanding the project, i will introduce the most famous model used in the project.
 https://github.com/yz93/LAVT-RIS
 
 ![Pipeline Image](pipeline.jpg)
