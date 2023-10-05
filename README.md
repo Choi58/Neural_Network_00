@@ -55,3 +55,6 @@ CUDA_VISIBLE_DEVICES=0 python -m torch.distributed.launch --nproc_per_node 1 --m
 ## Testing command
 python test.py --model lavt --swin_type base --dataset refcoco --split val --resume ./checkpoints/refcoco.pth --workers 4 --ddp_trained_weights --window12 --img_size 480
 
+## Video presentation
+https://youtu.be/b6mtvsPeSIA
+
